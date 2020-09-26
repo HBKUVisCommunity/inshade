@@ -1,5 +1,10 @@
 # Inshade
 
+
+
+
+
+
 The repository contains an example implementation of the InShaDe shape decriptor presented in the paper
 
 Marco Agus, Khaled Al-Thelaya, Corrado Calí, Marina Boido, Yin Yang, Giovanni Pintore, Enrico Gobbetti, and Jens Schneider. InShaDe: Invariant Shape Descriptors for visual analysis of histology 2D cellular and nuclear shapes. In Proc. Eurographics Workshop on Visual Computing for Biology and Medicine (VCBM), September 2020. 
