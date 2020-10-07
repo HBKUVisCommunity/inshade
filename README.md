@@ -31,7 +31,8 @@ It should be cited as:</br>
 
 M. Agus, K. Al-Thelaya, C. Cali, M. M. Boido, Y. Yang, G. Pintore, E. Gobbetti, J. Schneider,<br/>
 InShaDe: Invariant Shape Descriptors for visual analysis of histology cellular and nuclear shapes,<br/>
-10<sup>th</sup> Eurographics Workhop on Visual Computing for Biology and Medicine (EG VCBM), pp 61-70, 2020, DOI 10.2312/vcbm.20201173.</p>
+10<sup>th</sup> Eurographics Workhop on Visual Computing for Biology and Medicine (EG VCBM), pp 61-70, 2020,<br/>
+DOI <a href="https://diglib.eg.org:443/handle/10.2312/vcbm20201173">10.2312/vcbm.20201173</a>.</p>
 
 <h2>Using the Code</h2>
 Just download the jupyter notebook and the test images and put in the same directory.
