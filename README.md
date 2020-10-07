@@ -15,7 +15,7 @@ Enrico&nbsp;Gobetti<sup>3</sup>&nbsp;&nbsp;
 
 <img src="https://drive.google.com/uc?export=view&id=13bNpMV9-iGreXGgdOrUfbqXnQA_JKnP4" align="center" alt="InShaDe Pipeline Overview" />
 <p align="justify">
-Figure 1: <b>InShaDe:</b> from cell contours extracted from digital histology images, our pipeline computes invariant energy curvature-based Fourier descriptors. These synthetic descriptors can be used for visual analysis, proof-reading, segmentation, and domain-specific clustering according to specific taxonomies.</p>
+<b>InShaDe:</b> from cell contours extracted from digital histology images, our pipeline computes invariant energy curvature-based Fourier descriptors. These synthetic descriptors can be used for visual analysis, proof-reading, segmentation, and domain-specific clustering according to specific taxonomies.</p>
 
 <h2>Copyright Notice</h2>
 <p align="justify">This software is <b>(c) 2020 by M. Agus, K. Al-Thelaya, Y. Yang and J. Schneider, CSE, Hamad Bin Khalifa University</b>.
