@@ -31,7 +31,7 @@ We present a shape processing framework for visual exploration of cellular nucle
 
 <h2>Reference</h2>
 <p align="left">The full paper can be downloaded <a href="https://diglib.eg.org/bitstream/handle/10.2312/vcbm20201173/061-070.pdf">here</a>.
-It should be cited as:</br>
+It was presented at <a href="https://www.gcpr-vmv-vcbm-2020.uni-tuebingen.de/?page_id=886#joint_oral_2">EG VCBM 2020</a>. The talk is also available on <a href="https://www.youtube.com/watch?v=e6Oo35dXZ-w&feature=youtu.be">youtube</a>. It should be cited as:</br>
 
 M. Agus, K. Al-Thelaya, C. Cali, M. M. Boido, Y. Yang, G. Pintore, E. Gobbetti, J. Schneider,<br/>
 InShaDe: Invariant Shape Descriptors for visual analysis of histology cellular and nuclear shapes,<br/>
