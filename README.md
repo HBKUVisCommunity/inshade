@@ -21,6 +21,10 @@ Enrico&nbsp;Gobetti<sup>3</sup>&nbsp;&nbsp;
 <p align="justify">This software is <b>(c) 2020 by M. Agus, K. Al-Thelaya, Y. Yang and J. Schneider, CSE, Hamad Bin Khalifa University</b>.
 It is distributed under the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode">CC-NC-ND 4.0 licence</a>. For use in commercial projects, kindly contact <a href="mailto:magus@hbku.edu.qa">Marco Agus</a>. If you use this software in a publication, kindly cite the below reference.</p>
 
+<h2>Image credits</h2>
+Test images are courtesy of Corrado Cal&igrave, University of Turin and Graham Knott, EPFL, Lausaanne.
+
+
 <h2>Abstract</h2>
 <p align="justify">
 We present a shape processing framework for visual exploration of cellular nuclear envelopes extracted from histology images.The framework is based on a novel shape descriptor of closed contours relying on a geodesically uniform resampling of discrete curves to allow for discrete differential-geometry-based computation of unsigned curvature at vertices and edges. Our descriptor is, by design, invariant under translation, rotation and parameterization. Moreover, it additionally offers the option for uniform-scale-invariance. The optional scale-invariance is achieved by scaling features to z-scores, while invariance under parameterization shifts is achieved by using elliptic Fourier analysis (EFA) on the resulting curvature vectors. These invariant shape descriptors provide an embedding into a fixed-dimensional feature space that can be utilized for various applications: (i) as input features for deep and shallow learning techniques; (ii) as input for dimension reduction schemes for providing a visual reference for clustering collection of shapes.</p>
