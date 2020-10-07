@@ -13,7 +13,7 @@ Enrico&nbsp;Gobetti<sup>3</sup>&nbsp;&nbsp;
 <sup>3&nbsp;</sup>Visual Computing, CRS4, Italy
 </p>
 
-<img src="https://drive.google.com/uc?export=view&id=13bNpMV9-iGreXGgdOrUfbqXnQA_JKnP4" align="center" alt="InShaDe Pipeline Overview" />
+<img src="https://drive.google.com/uc?export=view&id=13bNpMV9-iGreXGgdOrUfbqXnQA_JKnP4" align="center" alt="InShaDe Pipeline Overview">
 <p align="justify">
 <b>InShaDe:</b> from cell contours extracted from digital histology images, our pipeline computes invariant energy curvature-based Fourier descriptors. These synthetic descriptors can be used for visual analysis, proof-reading, segmentation, and domain-specific clustering according to specific taxonomies.</p>
 
