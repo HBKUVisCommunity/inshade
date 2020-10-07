@@ -22,7 +22,7 @@ Enrico&nbsp;Gobetti<sup>3</sup>&nbsp;&nbsp;
 It is distributed under the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode">CC-NC-ND 4.0 licence</a>. For use in commercial projects, kindly contact <a href="mailto:magus@hbku.edu.qa">Marco Agus</a>. If you use this software in a publication, kindly cite the below reference.</p>
 
 <h2>Image credits</h2>
-Test images are courtesy of Corrado Cal&igrave, University of Turin and Graham Knott, EPFL, Lausaanne.
+Test images are courtesy of Corrado Cal&igrave, University of Turin and Graham Knott, EPFL, Lausanne.
 
 
 <h2>Abstract</h2>
